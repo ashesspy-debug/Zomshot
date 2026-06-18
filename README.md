@@ -33,7 +33,10 @@ Para que el juego funcione correctamente, los recursos deben estar organizados d
 └── sounds/                # Efectos de sonido y música ambiental
     ├── disparo.mp3, shouting.mp3, shouting2.mp3, boss_enojado.mp3
     └── background.mp3, boss_music.mp3, victory_sound.mp3, gameover_sound.mp3, menu.mp3
+
+    
 🕹️ Controles del Juego
+
 Puedes alternar el idioma entre Español e Inglés directamente desde el menú de Ajustes (Settings).
 Acción-Control-Movimiento: W, A, S, D o Flechas Direccionales
 Apuntar: Movimiento del Ratón (Mouse)
